@@ -125,6 +125,7 @@ export default [
     'pcStatsInterval',
     'preferH264',
     'requireDisplayName',
+    'remoteVideoMenu',
     'resolution',
     'startAudioMuted',
     'startAudioOnly',
